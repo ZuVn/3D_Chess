@@ -1,0 +1,6 @@
+{
+    "name": "Chess.Core",
+    "rootNamespace": "Chess",
+    "references": [],
+    "noEngineReferences": true
+}

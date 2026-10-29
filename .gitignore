@@ -1,0 +1,21 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/MemoryCaptures/
+*.csproj
+!/Tools/**/*.csproj
+*.sln
+*.slnx
+.vs/
+.idea/
+# dotnet tool output
+/Tools/**/bin/
+/Tools/**/obj/
+# Large third-party binaries: fetch with Tools/fetch_stockfish.sh
+/ThirdParty/Stockfish/linux/
+/ThirdParty/Stockfish/windows/

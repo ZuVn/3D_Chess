@@ -1,0 +1,12 @@
+Stockfish 19 (tag sf_19), unmodified official release binaries.
+
+Linux:   stockfish-linux-x86-64-universal.tar.gz
+Windows: stockfish-windows-x86-64-universal.zip
+from https://github.com/official-stockfish/Stockfish/releases/tag/sf_19
+
+Complete corresponding source code:
+  https://github.com/official-stockfish/Stockfish/tree/sf_19
+  (also contained in the release archives above, folder stockfish/src)
+
+Stockfish is free software under the GNU General Public License v3 (see COPYING.txt).
+It runs as a separate process and talks to the game only via the UCI text protocol.

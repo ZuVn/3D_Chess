@@ -1,0 +1,12 @@
+{
+    "name": "Chess.Game",
+    "rootNamespace": "ChessGame",
+    "references": [
+        "Chess.Core",
+        "Chess.AI",
+        "Unity.InputSystem",
+        "UnityEngine.UI",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ]
+}

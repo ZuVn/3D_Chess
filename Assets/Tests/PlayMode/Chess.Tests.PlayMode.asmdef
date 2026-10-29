@@ -1,0 +1,9 @@
+{
+    "name": "Chess.Tests.PlayMode",
+    "rootNamespace": "ChessGame.Tests",
+    "references": ["Chess.Core", "Chess.AI", "Chess.Game", "UnityEngine.TestRunner", "UnityEditor.TestRunner"],
+    "overrideReferences": true,
+    "precompiledReferences": ["nunit.framework.dll"],
+    "autoReferenced": false,
+    "defineConstraints": ["UNITY_INCLUDE_TESTS"]
+}

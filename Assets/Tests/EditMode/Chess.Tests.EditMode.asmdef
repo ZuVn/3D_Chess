@@ -1,0 +1,10 @@
+{
+    "name": "Chess.Tests.EditMode",
+    "rootNamespace": "Chess.Tests",
+    "references": ["Chess.Core", "Chess.AI", "UnityEngine.TestRunner", "UnityEditor.TestRunner"],
+    "includePlatforms": ["Editor"],
+    "overrideReferences": true,
+    "precompiledReferences": ["nunit.framework.dll"],
+    "autoReferenced": false,
+    "defineConstraints": ["UNITY_INCLUDE_TESTS"]
+}
